@@ -1,0 +1,16 @@
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\String Metodlari 2\String Metodlari 2\bin\Debug\String Metodlari 2.exe
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\String Metodlari 2\String Metodlari 2\bin\Debug\String Metodlari 2.pdb
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\String Metodlari 2\String Metodlari 2\obj\x86\Debug\String Metodlari 2.csprojResolveAssemblyReference.cache
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\String Metodlari 2\String Metodlari 2\obj\x86\Debug\String_Metodlari_2.Form1.resources
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\String Metodlari 2\String Metodlari 2\obj\x86\Debug\String_Metodlari_2.Properties.Resources.resources
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\String Metodlari 2\String Metodlari 2\obj\x86\Debug\String Metodlari 2.csproj.GenerateResource.Cache
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\String Metodlari 2\String Metodlari 2\obj\x86\Debug\String Metodlari 2.exe
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\String Metodlari 2\String Metodlari 2\obj\x86\Debug\String Metodlari 2.pdb
+E:\03 - Yazılım\Yeni klasör (2)\04 String Metodları 2\String Metodlari 2\obj\x86\Debug\String Metodlari 2.exe
+E:\03 - Yazılım\Yeni klasör (2)\04 String Metodları 2\String Metodlari 2\obj\x86\Debug\String Metodlari 2.pdb
+E:\03 - Yazılım\Yeni klasör (2)\04 String Metodları 2\String Metodlari 2\bin\Debug\String Metodlari 2.exe
+E:\03 - Yazılım\Yeni klasör (2)\04 String Metodları 2\String Metodlari 2\bin\Debug\String Metodlari 2.pdb
+E:\03 - Yazılım\Yeni klasör (2)\04 String Metodları 2\String Metodlari 2\obj\x86\Debug\String Metodlari 2.csprojResolveAssemblyReference.cache
+E:\03 - Yazılım\Yeni klasör (2)\04 String Metodları 2\String Metodlari 2\obj\x86\Debug\String_Metodlari_2.Form1.resources
+E:\03 - Yazılım\Yeni klasör (2)\04 String Metodları 2\String Metodlari 2\obj\x86\Debug\String_Metodlari_2.Properties.Resources.resources
+E:\03 - Yazılım\Yeni klasör (2)\04 String Metodları 2\String Metodlari 2\obj\x86\Debug\String Metodlari 2.csproj.GenerateResource.Cache
